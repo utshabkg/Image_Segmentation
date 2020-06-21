@@ -1,0 +1,26 @@
+<annotation>
+	<folder>custom</folder>
+	<filename>Y61.jpg</filename>
+	<path>T:\Research\image_processing\Image_Segmentation\brain_tumor_dataset\custom\Y61.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>433</width>
+		<height>520</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>tumor</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>273</xmin>
+			<ymin>268</ymin>
+			<xmax>378</xmax>
+			<ymax>404</ymax>
+		</bndbox>
+	</object>
+</annotation>
